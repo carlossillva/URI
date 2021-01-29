@@ -4,8 +4,12 @@
 Exemplos de Entrada
 25.01
 
+-25.02
+
 Exemplos de Saída
 Intervalo (25,50]
+
+Fora de intervalo
 """
 # Intervalos
 	#  0 a 25
