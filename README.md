@@ -1,2 +1,2 @@
 # URI
- Suluções de problemas da "Online Judge"
+ Soluções para algumas questões no juiz online URI
