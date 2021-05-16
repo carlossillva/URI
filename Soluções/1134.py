@@ -37,3 +37,4 @@ print(f'''MUITO OBRIGADO
 Alcool: {a}
 Gasolina: {g}
 Diesel: {d}''')
+
